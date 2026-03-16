@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "datafactoey4939"
+		},
+		"datalake292938387_accountKey": {
+			"value": ""
+		},
+		"synapse29292_connectionString": {
+			"value": ""
+		},
+		"datalake292938387_properties_typeProperties_url": {
+			"value": "https://datalake292938387.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
